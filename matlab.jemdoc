@@ -11,7 +11,7 @@ The core MATLAB software is also augmented by a variety of extensions known as /
 == MATLAB requires a paid license
 MATLAB software is not free; it is developed and sold by a company called Mathworks, and runs under license control. This means that when you install MATLAB it will ask you to enter license information, which is done either by entering a string of characters, or by following their prompts to go log into their website and select a license to retrieve. Depending on how you get your MATLAB license, the installation and authentication process will be different. We therefore can’t provide a step-by-step guide, but it’s usually pretty straightforward.
 
-== How to access MATLAB as a Stanford student (or post-doc)
+== How to access MATLAB as a Stanford student
 . *Get it from your PI or rotation lab*\n
 You (or your PI/research advisor) can purchase copies of Matlab for (a heavily discounted) price of around \$75 from the [http://stanford.onthehub.com/WebStore/Welcome.aspx Stanford software licensing store]. Additionally, your lab may already have machines with Matlab installed or copies of the software lying around for lab use.
 . *Download it from the Stanford Computational Services and Bioinformatics Facility (CBSF)*\n
