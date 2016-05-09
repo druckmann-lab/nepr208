@@ -1,20 +1,15 @@
 # jemdoc: menu{MENU}{lecture1.html}, title{nepr208 | Lecture 1}
-= NEPR 208 Lecture I Readings
+= NEPR 208 Lecture I
 
-Before lecture read Holt & Koch, 1997 (sec. 3.2. of paper less important)
+== Readings
 
-Useful background material: Integrate & Fire Neurons – Sec. 4.1.1 of Gerstner & Kistler Online: http://icwww.epfl.ch/~gerstner/SPNM/node26.html
+- Before lecture read [http://authors.library.caltech.edu/13789/1/HOLnc97.pdf Holt & Koch, 1997] (sec. 3.2. of paper less important)
+- Before or after lecture background references:
+  -- [http://www.ncbi.nlm.nih.gov/pubmed/12194875 Gain modulation by Chance, Abbott & Reyes, 2002]
+  -- [http://www.ncbi.nlm.nih.gov/pubmed/8456317 Firing rate homeostasis LeMasson, Abbott, Marder 1993]
+  -- [http://www.ncbi.nlm.nih.gov/pubmed/8178157 Turrigiano, Abbott, Marder, 1994]
+  -- [https://pdfs.semanticscholar.org/550a/6c4f0aa1a5cca55bf27489bc451c1e3ffd86.pdf Dendritic computation Why have dendrites? A computational perspective, Mel, B]
 
-Hodgkin Huxley model – Sec. 2.1.1 of Gerstner & Kistler Online: http://icwww.epfl.ch/~gerstner/SPNM/node14.html
-
-Before or after lecture background references:
-
-Gain modulation Chance, Abbott & Reyes, 2002 http://www.ncbi.nlm.nih.gov/pubmed/12194875
-
-Firing rate homeostasis LeMasson, Abbott, Marder 1993 http://www.ncbi.nlm.nih.gov/pubmed/8456317 Turrigiano, Abbott, Marder, 1994 http://www.ncbi.nlm.nih.gov/pubmed/8178157
-
-Dendritic computation Why have dendrites? A computational perspective, Mel, B
-
-https://pdfs.semanticscholar.org/550a/6c4f0aa1a5cca55bf27489bc451c1e3ffd86.pdf
-
-Useful to look at the behavior of a single compartment, we will be using this for part of problem set 1.
+== Background
+- Integrate & Fire Neurons – [http://icwww.epfl.ch/~gerstner/SPNM/node26.html Sec. 4.1.1 of Gerstner & Kistler Online]
+- Hodgkin Huxley model – [http://icwww.epfl.ch/~gerstner/SPNM/node14.html Sec. 2.1.1 of Gerstner & Kistler Online]
