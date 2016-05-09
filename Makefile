@@ -1,0 +1,2 @@
+all:
+	jemdoc *.jemdoc
