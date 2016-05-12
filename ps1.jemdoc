@@ -1,12 +1,13 @@
 # jemdoc: menu{MENU}{ps1.html}, title{nepr208 | Problem set 1}
-= Problem set 1: Single neuron mechanisms
+= Problem set 1: Single neuron mechanisms and oscillations
 
-== Files
-- Part 1 of the problem set can be found here: *[pdf/problemset1.pdf PDF for Part 1]*
-- Part 2 will be posted by Wednesday.
+== Exercises
+- Part 1: *[pdf/ps1_part1.pdf PDF for Part 1]*
+- Part 2: *[pdf/ps1_part2.pdf PDF for Part 2]*
 
-== Code
+== Code / other files
 - You can download starter code for Part 1 here: *[code/ps1.zip zip]*
+- You can download the .cc files you need for Part 2 here: *[code/latch1a.cc5 latch1a.cc5]* *[code/ps1_exp2.cc5 ps1_exp2.cc5]*
 
 == Submission
 You may work in groups, but please write up your own solutions. The write up is due in a week (5/16) in class.
