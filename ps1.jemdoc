@@ -11,3 +11,9 @@
 
 == Submission
 You may work in groups, but please write up your own solutions. The write up is due in a week (5/16) in class.
+
+== Errata
+These are changes made to the original PDF for part 1 (the one that was passed out in class). The link above has been updated with these edits: 
+ - Adds the resting potential to the integrate-and-fire equation (eqns. 1-3 in the pdf)
+ - Fixes a missing minus sign in the calcium concentration dynamics (Part 6, question 1. in the pdf)
+ - Adds some more description text in Part 6
