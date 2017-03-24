@@ -4,16 +4,16 @@ Course Information
 
 Lectures
     Lecture 1: Single neuron biophysics         [lecture1.html]
-    Lecture 2: Oscillations         [lecture2.html]
-    Lecture 3: Neural coding         [lecture3.html]
-    Lecture 4: Optimal sensory coding         [lecture4.html]
-    Lecture 5: Learning and Memory          [lecture5.html]
-    Lecture 6: Neural network models of memory          [lecture6.html]
+    #Lecture 2: Oscillations         [lecture2.html]
+    #Lecture 3: Neural coding         [lecture3.html]
+    #Lecture 4: Optimal sensory coding         [lecture4.html]
+    #Lecture 5: Learning and Memory          [lecture5.html]
+    #Lecture 6: Neural network models of memory          [lecture6.html]
 
 Problem Sets
     Week 1: Single neuron mechanisms           [ps1.html]
-    Week 2: Neural coding and adaptation           [ps2.html]
-    Week 3: Learning and Memory               [ps3.html]
+    #Week 2: Neural coding and adaptation           [ps2.html]
+    #Week 3: Learning and Memory               [ps3.html]
 
 Useful resources
   Why model?              [http://jasss.soc.surrey.ac.uk/11/4/12.html]
@@ -22,3 +22,5 @@ Useful resources
 Software
   Getting Matlab                     [matlab.html]
   Electophysiology of the Neuron simulator [http://eotn.stanford.edu]
+
+
