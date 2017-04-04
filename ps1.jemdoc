@@ -3,17 +3,11 @@
 
 == Exercises
 - Part 1: *[pdf/ps1_part1.pdf PDF for Part 1]*
-- Part 2: *[pdf/ps1_part2.pdf PDF for Part 2]*
+- Part 2 (coming soon)
 
 == Code / other files
 - You can download starter code for Part 1 here: *[code/ps1.zip zip]*
-- You can download the .cc files you need for Part 2 here: *[code/latch1a.cc5 latch1a.cc5]* *[code/ps1_exp2.cc5 ps1_exp2.cc5]*
+#- You can download the .cc files you need for Part 2 here: *[code/latch1a.cc5 latch1a.cc5]* *[code/ps1_exp2.cc5 ps1_exp2.cc5]*
 
 == Submission
-You may work in groups, but please write up your own solutions. The write up is due in a week (5/16) in class.
-
-== Errata
-These are changes made to the original PDF for part 1 (the one that was passed out in class). The link above has been updated with these edits: 
- - Adds the resting potential to the integrate-and-fire equation (eqns. 1-3 in the pdf)
- - Fixes a missing minus sign in the calcium concentration dynamics (Part 6, question 1. in the pdf)
- - Adds some more description text in Part 6
+You may work in groups, but please write up your own solutions. Include any plots you generate, as well as answers to any questions. Figures should have labels, units, and clear descriptions of what the figure is showing. The write up is due in a week (4/10) in class.
