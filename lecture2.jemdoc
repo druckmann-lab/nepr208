@@ -13,13 +13,13 @@ Please read the papers before class.
 - [http://www.ncbi.nlm.nih.gov/pubmed/1712843 McCormick and Pape 1990]
 
 == Electrophysiology of the Neuron (EOTN)
-To explore the roles of ion channels in governing neural behavior, the tutorial and software, Electrophysiology of the Neuron (EOTN), is available. The software and ebook can be found here: 
+To explore the roles of ion channels in governing neural behavior, the tutorial and software, Electrophysiology of the Neuron (EOTN), is available. The software can be found here: 
 - Windows: [http://eotn.stanford.edu/EOTNsetup.exe EOTNsetup.exe]
 - OSX: [http://eotn.stanford.edu/EOTNsetup.pkg EOTNsetup.pkg]
 
-We need each of you to install the program.  Please do so before class Friday (4/7) and let us know if you have any issues.
+We need each of you to install the program (you will get two programs installed, SimVC and SimCC, for voltage clamp and current clamp simulations, respectively).  Please do so before class Friday (4/7) and let us know if you have any issues.
 
-Here is the [http://eotn.stanford.edu/ELECTROPHYSIOLOGY%20OF%20THE%20NEURON.pdf original book] (the book is out of print, but there is a pdf) that David McCormick (Yale University) and I wrote to develop some simple exercises for teaching in a dry lab the basics of resting membrane potentials, stimulation, synapses, action potentials, synaptic currents, etc.
+Here is the [http://eotn.stanford.edu/ELECTROPHYSIOLOGY%20OF%20THE%20NEURON.pdf original book] (the book is out of print, but there is a pdf) that David McCormick (Yale University) and John Huguenard wrote to develop some simple exercises for teaching in a dry lab the basics of resting membrane potentials, stimulation, synapses, action potentials, synaptic currents, etc.
 
 And here is a link to the archived parameter files to be used for the exercises in the book: [http://eotn.stanford.edu/eotn_parameters_v4.tgz eotn_parameters_v4.tgz]
 
