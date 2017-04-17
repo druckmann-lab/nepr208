@@ -1,2 +1,2 @@
 all:
-	jemdoc *.jemdoc
+	jemdoc -c mysite.conf *.jemdoc

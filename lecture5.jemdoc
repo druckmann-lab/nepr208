@@ -1,14 +1,6 @@
-# jemdoc: menu{MENU}{lecture5.html}, title{nepr208 | Lecture 5}
-= NEPR 208 Lecture V
+# jemdoc: menu{MENU}{lecture6.html}, title{nepr208 | Lecture 6}
+= NEPR 208 Lecture VI
 
 == Readings
-- [http://www.nature.com/nature/journal/v528/n7582/full/nature15741.html Okubo et. al. 2015 (Growth of splitting of neural sequences in songbird vocal development)]
-- [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3630333/ Hennig 2013 (Theoretical models of synaptic short term plasticity)] 
-- [http://www.nature.com/nature/journal/v422/n6931/full/nature01530.html Royer and Pare 2003 (Conservation of total synaptic weigh through balanced synaptic depression and potentiation)]
-- [http://science.sciencemag.org/content/319/5869/1543 Mongillo, Barak, and Tsodyks 2008 (Synaptic theory of working memory)]
-- [http://www.sciencedirect.com/science/article/pii/S0896627312000797 Ozuysal and Baccus 2012 (Linking the computational structure of variance adaptation to biophysical mechanisms)]
-
-== Slides
-Main lecture: [slides/lecture5.pdf PDF] [slides/lecture5.pptx PPT]
-
-Intro to the problem set (Hannah Payne): [slides/lecture5_hannah.pdf PDF] [slides/lecture5_hannah.pptx PPT]
+- [http://www.nature.com/neuro/journal/v19/n3/abs/nn.4237.html Review article by Chaudhuri and Fiete 2016 (Computational principles of memory)]
+- [http://www.pnas.org/content/79/8/2554.short Hopfield 1982 (A classic paper)]
