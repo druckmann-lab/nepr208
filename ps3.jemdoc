@@ -1,14 +1,13 @@
 # jemdoc: menu{MENU}{ps3.html}, title{nepr208 | Problem set 3}
 = Problem set 3: Learning and Memory
 
-In this problem set, you will first play around with a model of sequence learning during the development of the birdsong motor system.
-Then, you will explore the dynamics and storage capabilities of the Hopfield model.
+In this problem set, you will first explore the dynamics and storage capabilities of the Hopfield model, and then explore spike-timing dependent plasticity (STDP) in a randomly connected neural network.
 
 == Exercises
 - Problem set 3: *[pdf/ps3.pdf PDF]*
 
 == Code / data files
-- You can download starter code and data files here: *[code/ps3.zip zip]*
+- You can download starter code here: *[code/ps3.zip zip]*
 
 == Submission
-You may work in groups, but please write up your own solutions. The write up is due in a week (5/30).
+You may work in groups, but please write up your own solutions. The write up is due in a week (4/24).
