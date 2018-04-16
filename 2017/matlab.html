@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>nepr208 | getting matlab</title>
+<!-- MathJax -->
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<!-- End MathJax -->
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Course Information</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="pdf/syllabus.pdf">Syllabus&nbsp;(pdf)</a></div>
+<div class="menu-category">Lectures</div>
+<div class="menu-item"><a href="lecture1.html">Lecture&nbsp;1:&nbsp;Single&nbsp;neuron&nbsp;biophysics</a></div>
+<div class="menu-item"><a href="lecture2.html">Lecture&nbsp;2:&nbsp;Oscillations</a></div>
+<div class="menu-item"><a href="lecture3.html">Lecture&nbsp;3:&nbsp;Neural&nbsp;coding</a></div>
+<div class="menu-item"><a href="lecture4.html">Lecture&nbsp;4:&nbsp;Optimal&nbsp;sensory&nbsp;coding</a></div>
+<div class="menu-item"><a href="lecture5.html">Lecture&nbsp;5:&nbsp;Neural&nbsp;network&nbsp;models&nbsp;of&nbsp;memory</a></div>
+<div class="menu-item"><a href="lecture6.html">Lecture&nbsp;6:&nbsp;Mechanisms&nbsp;of&nbsp;learning&nbsp;and&nbsp;memory</a></div>
+<div class="menu-category">Problem Sets</div>
+<div class="menu-item"><a href="ps1.html">Week&nbsp;1:&nbsp;Single&nbsp;neuron&nbsp;mechanisms</a></div>
+<div class="menu-item"><a href="ps2.html">Week&nbsp;2:&nbsp;Neural&nbsp;coding&nbsp;and&nbsp;adaptation</a></div>
+<div class="menu-item"><a href="ps3.html">Week&nbsp;3:&nbsp;Learning&nbsp;and&nbsp;Memory</a></div>
+<div class="menu-category">Useful resources</div>
+<div class="menu-item"><a href="https://ebookcentral.proquest.com/lib/stanford-ebooks/detail.action?docID=3338869">Dayan&nbsp;and&nbsp;Abbott&nbsp;(textbook)</a></div>
+<div class="menu-item"><a href="http://jasss.soc.surrey.ac.uk/11/4/12.html">Why&nbsp;model?</a></div>
+<div class="menu-item"><a href="http://web.stanford.edu/class/nbio228-01/">Mathtools&nbsp;course&nbsp;NBIO228</a></div>
+<div class="menu-category">Software</div>
+<div class="menu-item"><a href="matlab.html" class="current">Getting&nbsp;Matlab</a></div>
+<div class="menu-item"><a href="http://eotn.stanford.edu">Electophysiology&nbsp;of&nbsp;the&nbsp;Neuron&nbsp;simulator</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Getting Started with MATLAB</h1>
+</div>
+<p><b>You are responsible for obtaining a copy of MATLAB to use for the duration of the course; to help you, we have prepared this guide, which lists a number of ways you can get a copy as a Stanford student.</b></p>
+<h2>Software Versions</h2>
+<p>MATLAB is updated twice a year, and the latest version is R2016a. Fortunately, MATLAB code, data, and figures are compatible across a range of versions. For this course, any reasonably recent version from the last five years will suffice; if you’re using a version that’s on the older side, there’s a chance that some function or feature we suggest you use will be missing or won’t work as expected, but if this happens we’ll work around that. In short, get the most recent version of MATLAB you can but don’t sweat it.</p>
+<p>The core MATLAB software is also augmented by a variety of extensions known as <i>toolboxes</i>, which are collections of functions useful for a specific purpose (e.g., image processing, financial applications, or neural networks). You won't need any special toolboxes for this course, although if necessary we will provide specific functions if the need arises.</p>
+<h2>MATLAB requires a paid license</h2>
+<p>MATLAB software is not free; it is developed and sold by a company called Mathworks, and runs under license control. This means that when you install MATLAB it will ask you to enter license information, which is done either by entering a string of characters, or by following their prompts to go log into their website and select a license to retrieve. Depending on how you get your MATLAB license, the installation and authentication process will be different. We therefore can’t provide a step-by-step guide, but it’s usually pretty straightforward.</p>
+<h2>How to access MATLAB as a Stanford student</h2>
+<ol>
+<li><p><b>Get it from your PI or rotation lab</b><br />
+You (or your PI/research advisor) can purchase copies of Matlab for (a heavily discounted) price of around $75 from the <a href="http://stanford.onthehub.com/WebStore/Welcome.aspx" target=&ldquo;blank&rdquo;>Stanford software licensing store</a>. Additionally, your lab may already have machines with Matlab installed or copies of the software lying around for lab use.</p>
+</li>
+<li><p><b>Download it from the Stanford Computational Services and Bioinformatics Facility (CBSF)</b><br />
+If your PI or research lab is part of the &ldquo;Computational Services and Bioinformatics Facility&rdquo; (CBSF), you can download Matlab for free from the <a href="https://cmgm3.stanford.edu/software/" target=&ldquo;blank&rdquo;>CBSF website</a>.</p>
+</li>
+<li><p><b>Use Stanford's network computing resources (<i>FarmShare</i> and <i>Corn</i>)</b><br />
+Stanford provides network computing resources for students, and as part of that, you have access to a bunch of machines (known as &ldquo;FarmShare&rdquo;) that run Matlab. The specific group of servers is known as the &ldquo;Corn&rdquo; computing cluster - you may hear us use the phrase, &ldquo;log in to Corn&rdquo; or &ldquo;running on Corn&rdquo; to refer to using these machines.</p>
+</li>
+</ol>
+<div class="infoblock">
+<div class="blockcontent">
+<p>You can find instructions on how to access the Corn cluster from <a href="https://itservices.stanford.edu/service/sharedcomputing/loggingin" target=&ldquo;blank&rdquo;>Stanford IT Services</a>, and once logged in, there is a guide on how to run Matlab at the <a href="http://www.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/MATLAB" target=&ldquo;blank&rdquo;>FarmShare website</a>.</p>
+</div></div>
+
+<ol>
+<li>
+<ol>
+<li><p>(Mac OSX only) To use the graphical user interface (GUI), you will need to make sure that you have X11 forwarding set up. I believe that this comes pre-installed on Macs running OS X versions 10.7 and earlier, but if you are running the newest version (10.8 Mountain Lion), you will need to install X11 yourself at the <a href="http://xquartz.macosforge.org/trac/wiki/X112.7.4" target=&ldquo;blank&rdquo;>XQuartz website</a>.</p>
+</li>
+<li><p>First, open up the <i>Terminal</i> application</p>
+</li>
+<li><p>Type <tt>ssh -X mysunetid@corn.stanford.edu</tt> to log into the <i>Corn</i> server (you will need to replace <tt>mysunetid</tt> with your own SUNetID username)</p>
+</li>
+<li><p>Load the Matlab module by typing: <tt>module load matlab</tt></p>
+</li>
+<li><p>Run Matlab by typing: <tt>matlab</tt></p>
+</li>
+<li><p>If everything is working, the Matlab desktop environment should load. If you don't have X11 forwarding set up, you may get the following message: <i>Warning: No display specified.  You will not be able to display graphics on the screen.</i></p>
+</li>
+<li><p>When you are done using Matlab, you can logout of the server by typing <tt>logout</tt></p>
+</li>
+</ol>
+
+</li>
+</ol>
+<div class="infoblock">
+<div class="blockcontent">
+<p>If all else fails, please contact us! We don't want difficulty with accessing Matlab to be the preventing you from taking the course.</p>
+</div></div>
+<div id="footer">
+<div id="footer-text">
+Page generated 2017-04-18 20:01:46 PDT, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
