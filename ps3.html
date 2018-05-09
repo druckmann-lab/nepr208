@@ -5,7 +5,7 @@
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>nepr208 | Lecture 2</title>
+<title>nepr208 | Problem set 3</title>
 <!-- MathJax -->
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
@@ -26,14 +26,14 @@ MathJax.Hub.Config({
 <div class="menu-item"><a href="2017/index.html">2017&nbsp;Website</a></div>
 <div class="menu-category">Lectures</div>
 <div class="menu-item"><a href="lecture1.html">Lecture&nbsp;1:&nbsp;Oscillations</a></div>
-<div class="menu-item"><a href="lecture2.html" class="current">Lecture&nbsp;2:&nbsp;Single&nbsp;neuron&nbsp;biophysics</a></div>
+<div class="menu-item"><a href="lecture2.html">Lecture&nbsp;2:&nbsp;Single&nbsp;neuron&nbsp;biophysics</a></div>
 <div class="menu-item"><a href="lecture3.html">Lecture&nbsp;3:&nbsp;Neural&nbsp;coding</a></div>
 <div class="menu-item"><a href="lecture4.html">Lecture&nbsp;4:&nbsp;Optimal&nbsp;sensory&nbsp;coding</a></div>
 <div class="menu-item"><a href="lecture5.html">Lecture&nbsp;5:&nbsp;Neural&nbsp;network&nbsp;models&nbsp;of&nbsp;memory</a></div>
 <div class="menu-category">Problem Sets</div>
 <div class="menu-item"><a href="ps1.html">Week&nbsp;1:&nbsp;Single&nbsp;neuron&nbsp;mechanisms</a></div>
 <div class="menu-item"><a href="ps2.html">Week&nbsp;2:&nbsp;Neural&nbsp;coding&nbsp;and&nbsp;adaptation</a></div>
-<div class="menu-item"><a href="ps3.html">Week&nbsp;3:&nbsp;Learning&nbsp;and&nbsp;Memory</a></div>
+<div class="menu-item"><a href="ps3.html" class="current">Week&nbsp;3:&nbsp;Learning&nbsp;and&nbsp;Memory</a></div>
 <div class="menu-category">Useful resources</div>
 <div class="menu-item"><a href="https://ebookcentral.proquest.com/lib/stanford-ebooks/detail.action?docID=3338869">Dayan&nbsp;and&nbsp;Abbott&nbsp;(textbook)</a></div>
 <div class="menu-item"><a href="http://jasss.soc.surrey.ac.uk/11/4/12.html">Why&nbsp;model?</a></div>
@@ -44,51 +44,21 @@ MathJax.Hub.Config({
 </td>
 <td id="layout-content">
 <div id="toptitle">
-<h1>NEPR 208 Lecture II</h1>
+<h1>Problem set 3: Learning and Memory</h1>
 </div>
-<h2>Readings</h2>
+<p>In this problem set, you will first explore the dynamics and storage capabilities of the Hopfield model, and then explore spike-timing dependent plasticity (STDP) in a randomly connected neural network.</p>
+<h2>Exercises</h2>
 <ul>
-<li><p>Before lecture read <a href="http://authors.library.caltech.edu/13789/1/HOLnc97.pdf">Holt &amp; Koch, 1997</a> (sec. 3.2. of paper less important)</p>
-</li>
-<li><p>Before or after lecture background references:</p>
-<ul>
-<li><p><a href="http://www.ncbi.nlm.nih.gov/pubmed/12194875">Gain modulation by Chance, Abbott &amp; Reyes, 2002</a></p>
-</li>
-<li><p><a href="http://www.ncbi.nlm.nih.gov/pubmed/8456317">Firing rate homeostasis LeMasson, Abbott, Marder 1993</a></p>
-</li>
-<li><p><a href="http://www.ncbi.nlm.nih.gov/pubmed/8178157">Turrigiano, Abbott, Marder, 1994</a></p>
-</li>
-<li><p><a href="https://pdfs.semanticscholar.org/550a/6c4f0aa1a5cca55bf27489bc451c1e3ffd86.pdf">Dendritic computation Why have dendrites? A computational perspective, Mel, B</a></p>
+<li><p>Problem set 3: <b><a href="pdf/ps3.pdf">PDF</a></b></p>
 </li>
 </ul>
-
-</li>
-</ul>
-<h2>Background</h2>
+<h2>Code / data files</h2>
 <ul>
-<li><p>Integrate &amp; Fire Neurons – <a href="http://icwww.epfl.ch/~gerstner/SPNM/node26.html">Sec. 4.1.1 of Gerstner &amp; Kistler Online</a></p>
-</li>
-<li><p>Hodgkin Huxley model – <a href="http://icwww.epfl.ch/~gerstner/SPNM/node14.html">Sec. 2.1.1 of Gerstner &amp; Kistler Online</a></p>
+<li><p>You can download starter code here: <b><a href="code/ps3.zip">zip</a></b></p>
 </li>
 </ul>
-<h2>Slides</h2>
-<p><a href="slides/lecture2.pdf">PDF</a> <a href="slides/lecture2.pptx">PPTX</a></p>
-<h2>Advanced Readings</h2>
-<ul>
-<li><p>Advanced Readings, descriptions here: <a href="advanced/lecture2.pdf">PDF</a></p>
-<ul>
-<li><p><a href="https://www.ncbi.nlm.nih.gov/pubmed/16625198">Naundorf, Wolf, Volgushev, 2006</a></p>
-</li>
-<li><p><a href="https://doi.org/10.1038/nrn1397">Axon Information Processing by Debanne, 2006</a></p>
-</li>
-<li><p><a href="https://www.ncbi.nlm.nih.gov/pubmed/16625207">Shu, Hasenstaub, Duque, Yu, McCormick, 2006</a></p>
-</li>
-<li><p><a href="https://www.ncbi.nlm.nih.gov/pubmed/10966620">Magee, Cook, 2000</a></p>
-</li>
-</ul>
-
-</li>
-</ul>
+<h2>Submission</h2>
+<p>You may work in groups, but please write up your own solutions. The write up is due in a week (4/24).</p>
 <div id="footer">
 <div id="footer-text">
 Page generated 2018-05-09 16:58:56 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
