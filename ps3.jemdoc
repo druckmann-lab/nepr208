@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{ps3.html}, title{nepr208 | Problem set 3}
 = Problem set 3: Learning and Memory
 
-In this problem set, you will first explore the dynamics and storage capabilities of the Hopfield model, and then explore spike-timing dependent plasticity (STDP) in a randomly connected neural network.
+In this problem set, you will first explore the dynamics and storage capabilities of the Hopfield model.
 
 == Exercises
 - Problem set 3: *[pdf/ps3.pdf PDF]*
