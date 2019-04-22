@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{lecture4.html}, title{nepr208 | Lecture 4}
+= NEPR 208 Lecture IV
+
+== Readings
+- [http://www.degruyter.com/view/j/znc.1981.36.issue-9-10/znc-1981-9-1040/znc-1981-9-1040.xml Laughlin 1981 (Maximizing a neuron's information capacity)] 
+- [http://www.nature.com/nature/journal/v360/n6399/abs/360068a0.html van Hateren 1992 (Real and optimal neural images in early vision)]
+- [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3630333/ Hennig 2013 (Theoretical models of synaptic short term plasticity)]
+- [http://www.sciencedirect.com/science/article/pii/S0896627312000797 Ozuysal and Baccus 2012 (Linking the computational structure of variance adaptation to biophysical mechanisms)]
+
+== Advanced Readings
+- [http://www.mitpressjournals.org/doi/abs/10.1162/neco.1992.4.2.196 Atick and Redlich 1992 (What does the retina know about natural scenes?)]
+- [https://www.ncbi.nlm.nih.gov/pubmed/11127835 Abbott and Nelson 2000 (Synaptic Plasticity: Taming the Beast)]
+- [http://science.sciencemag.org/content/319/5869/1543 Mongillo, Barak, and Tsodyks 2008 (Synaptic theory of working memory)]
+
+== Slides
+[slides/lecture4.pdf PDF] [slides/lecture4.ppt PPT]
