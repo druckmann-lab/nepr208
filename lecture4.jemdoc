@@ -1,5 +1,5 @@
-# jemdoc: menu{MENU}{lecture3.html}, title{nepr208 | Lecture 3}
-= NEPR 208 Lecture III
+# jemdoc: menu{MENU}{lecture4.html}, title{nepr208 | Lecture 4}
+= NEPR 208 Lecture IV
 
 == Readings
 - [http://jn.physiology.org/content/96/5/2724.long Fairhall 2006 (applies spike-triggered covariance analysis to retinal data)]
@@ -11,4 +11,3 @@
 - [https://www.nature.com/articles/nn.4244 Yamins and DiCarlo 2016]
 
 == Slides
-[slides/lecture3.pdf PDF] [slides/lecture3.ppt PPT]

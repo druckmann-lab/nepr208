@@ -1,5 +1,5 @@
-# jemdoc: menu{MENU}{lecture2.html}, title{nepr208 | Lecture 2}
-= NEPR 208 Lecture II
+# jemdoc: menu{MENU}{lecture1.html}, title{nepr208 | Lecture 1}
+= NEPR 208 Lecture I
 
 == Readings
 
@@ -15,7 +15,6 @@
 - Hodgkin Huxley model – [http://icwww.epfl.ch/~gerstner/SPNM/node14.html Sec. 2.1.1 of Gerstner & Kistler Online]
 
 == Slides
-[slides/lecture2.pdf PDF] [slides/lecture2.pptx PPTX]
 
 == Advanced Readings
 - Advanced Readings, descriptions here: [advanced/lecture2.pdf PDF]

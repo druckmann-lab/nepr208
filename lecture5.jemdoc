@@ -1,5 +1,5 @@
-# jemdoc: menu{MENU}{lecture4.html}, title{nepr208 | Lecture 4}
-= NEPR 208 Lecture IV
+# jemdoc: menu{MENU}{lecture5.html}, title{nepr208 | Lecture 5}
+= NEPR 208 Lecture V
 
 == Readings
 - [http://www.degruyter.com/view/j/znc.1981.36.issue-9-10/znc-1981-9-1040/znc-1981-9-1040.xml Laughlin 1981 (Maximizing a neuron's information capacity)] 
@@ -13,4 +13,3 @@
 - [http://science.sciencemag.org/content/319/5869/1543 Mongillo, Barak, and Tsodyks 2008 (Synaptic theory of working memory)]
 
 == Slides
-[slides/lecture4.pdf PDF] [slides/lecture4.ppt PPT]
