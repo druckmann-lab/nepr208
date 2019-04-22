@@ -2,12 +2,8 @@
 = NEPR 208 Lecture IV
 
 == Readings
-- [http://jn.physiology.org/content/96/5/2724.long Fairhall 2006 (applies spike-triggered covariance analysis to retinal data)]
-- [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3721832/ Mease et. al. 2013 (investigates adaptation in single neuron models)]
-- [http://jov.arvojournals.org/article.aspx?articleid=2192881 Schwartz et. al. 2006 (a review of spike-triggered analysis)]
-
-== Advanced Readings
-- [https://www.ncbi.nlm.nih.gov/pubmed/27477016 Aljadeff, Landsdell, Fairhall, Kleinfeld 2016. Analysis of Neuronal Spike Trains, Deconstructed]
-- [https://www.nature.com/articles/nn.4244 Yamins and DiCarlo 2016]
+- [http://www.nature.com/neuro/journal/v19/n3/abs/nn.4237.html Review article by Chaudhuri and Fiete 2016 (Computational principles of memory)]
+- [http://www.pnas.org/content/79/8/2554.short Hopfield 1982 (A classic paper)]
 
 == Slides
+
