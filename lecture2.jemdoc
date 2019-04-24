@@ -13,9 +13,8 @@ Please read the papers before class.
 - [http://www.ncbi.nlm.nih.gov/pubmed/1712843 McCormick and Pape 1990]
 
 == Electrophysiology of the Neuron (EOTN)
-To explore the roles of ion channels in governing neural behavior, the tutorial and software, Electrophysiology of the Neuron (EOTN), is available. The software can be found here: 
-- Windows: [http://eotn.stanford.edu/EOTNsetup.exe EOTNsetup.exe]
-- OSX: [http://eotn.stanford.edu/EOTNsetup.pkg EOTNsetup.pkg]
+To explore the roles of ion channels in governing neural behavior, the tutorial and software, Electrophysiology of the Neuron (EOTN), is available. The software can be found here:
+[https://www.eotnprogram.org/ EOTN]
 
 We need each of you to install the program (you will get two programs installed, SimVC and SimCC, for voltage clamp and current clamp simulations, respectively).  Please do so before class Friday (4/7) and let us know if you have any issues.
 
