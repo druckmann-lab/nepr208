@@ -81,7 +81,7 @@
 			{
 				"conductance":0.4,
 				"frequency":100,
-				"kinetics":4,
+				"kinetics":64,
 				"onset":300,
 				"repetitions":1,
 				"weightA":1,
@@ -360,7 +360,7 @@
 		"sim_options":
 		{
 			"ca_removal":1,
-			"graph_title":"Graph test 1",
+			"graph_title":"active response to current injection",
 			"initial_voltage":-65,
 			"membrane_area":29000,
 			"membrane_depth":0.1,
