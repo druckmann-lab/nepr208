@@ -1,0 +1,28 @@
+Course Information
+    Home                    [index.html]
+    Syllabus (pdf)               [pdf/syllabus.pdf]
+    2018 Website               [2018/index.html]
+Lectures
+    Lecture 1: Single neuron biophysics         [lecture1.html]
+    Lecture 2: Oscillations         [lecture2.html]
+    Lecture 3: Synaptic learning and population dynamics         [lecture3.html]
+    Lecture 4: Neural network models of memory          [lecture4.html]
+    Lecture 5: Neural coding         [lecture5.html]
+    Lecture 6: Adaptation and plasticity         [lecture6.html]
+        
+Problem Sets
+    Week 1: Single neuron mechanisms           [ps1.html]
+    Week 2: Learning and Memory               [ps2.html]
+    Week 3: Neural coding and adaptation           [ps3.html]
+    
+    
+Useful resources
+  Dayan and Abbott (textbook) [https://ebookcentral.proquest.com/lib/stanford-ebooks/detail.action?docID=3338869]
+  Why model?              [http://jasss.soc.surrey.ac.uk/11/4/12.html]
+  Mathtools course NBIO228 [http://web.stanford.edu/class/nbio228-01/]
+
+Software
+  Getting Matlab                     [matlab.html]
+  Electophysiology of the Neuron simulator [http://eotn.stanford.edu]
+
+
