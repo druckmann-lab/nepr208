@@ -3,17 +3,17 @@ Course Information
     Syllabus (pdf)               [pdf/syllabus.pdf]
     2019 Website               [2019/index.html]
 Lectures
-    Lecture 1: Single neuron biophysics         [lecture1.html]
+    Lecture 1: Introduction and perceptrons         [lecture1.html]
     Lecture 2: Oscillations         [lecture2.html]
-    Lecture 3: Synaptic learning and population dynamics         [lecture3.html]
-    Lecture 4: Neural network models of memory          [lecture4.html]
+    Lecture 3: Single neuron biophysics         [lecture3.html]
+    Lecture 4: Linderman          [lecture4.html]
     Lecture 5: Neural coding         [lecture5.html]
-    Lecture 6: Adaptation and plasticity         [lecture6.html]
+    Lecture 6: Neural network models of memory         [lecture6.html]
         
 Problem Sets
-    Week 1: Single neuron mechanisms           [ps1.html]
-    Week 2: Learning and Memory               [ps2.html]
-    Week 3: Neural coding and adaptation           [ps3.html]
+#    Week 1: Single neuron mechanisms           [ps1.html]
+#    Week 2: Learning and Memory               [ps2.html]
+#    Week 3: Neural coding and adaptation           [ps3.html]
     
     
 Useful resources
