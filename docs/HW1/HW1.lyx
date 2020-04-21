@@ -107,6 +107,11 @@ Problem Set
 Perceptrons
 \end_layout
 
+\begin_layout Standard
+Note: if you get stuck, you can find sample code on the course website at:
+ http://druckmann-lab.github.io/nepr208/ps1.html
+\end_layout
+
 \begin_layout Enumerate
 Implement Perceptron learning for binary patterns.
  An input pattern 
