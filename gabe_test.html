@@ -7,15 +7,23 @@
     <title>Today's Date</title>
 
     <label for="fname">Input:</label>
-  	<input type="text" id="fname" name="fname"><br><br>
+  	<input type="text" id="input" name="input"><br><br>
   	<label for="lname">Output:</label>
-  	<input type="text" id="lname" name="lname"><br><br>
-  	<button type="button">Convert</button>
+  	<input type="text" id="output" name="output"><br><br>
+  	<button type="button" onclick="myFunction()">Convert</button>
 
-    <script>
+<!--     <script>
         let d = new Date();
         alert("Today's date is " + d);
-    </script>
+    </script> -->
+
+    <script>
+		function myFunction() {
+			let text=document.getElementById("input").value;
+			document.getElementById('output').value=text;
+		  	alert("Input box says " + text);
+		}
+	</script>
 </head>
 
 <body>
