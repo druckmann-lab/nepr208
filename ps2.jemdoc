@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{ps2.html}, title{nepr208 | Problem set 2}
-= Problem set 2: Learning and Memory
+= Problem set 2: Neural coding
 
-In this problem set, you will first explore the dynamics and storage capabilities of the Hopfield model, and then you will train a perceptron.
+In this problem set, you will explore neural coding using retinal data. As part of this analysis, you will perform PCA on spike-triggering stimuli. 
 
 == Exercises
 - Problem set 2: *[pdf/ps2.pdf PDF]*
