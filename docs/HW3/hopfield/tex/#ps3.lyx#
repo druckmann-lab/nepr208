@@ -1,0 +1,844 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+
+
+
+
+% Use LaTeX modern fonts, little nicer than the default computer modern.
+\usepackage{textcomp}
+% Textcomp takes some characters from the T1 encoding.
+% Gives punctuation at the end of the lines a smoother appearance by character protrusion.
+% Used to attach files (MATLAB scripts)
+\usepackage{listings}
+\usepackage{moreverb}
+
+
+% Allows inclusion of bitmap graphics (jpg, png)
+\usepackage{pslatex}
+% \graphicspath{{../figures/}}
+
+% for drawing circuit diagrams
+% \usepackage[americanvoltages]{circuitikz}
+% \usepackage{tikz}
+
+
+
+% use fancy Header/Footer
+\usepackage{fancyhdr}
+
+\usepackage{lastpage}
+
+
+% Set Header and Footer
+\lhead{NEPR 208}
+\chead{}
+\rhead{Learning and memory}
+\lfoot{}
+\cfoot{\thepage\ of \pageref{LastPage}}
+\rfoot{}
+\renewcommand{\headrulewidth}{0.2pt}
+
+% letters in enumerate
+\renewcommand{\theenumi}{\Alph{enumi}}
+
+% Horizontal line
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+
+% -- Figure, Float, Table, and List Formatting
+\usepackage{array}% tables
+\usepackage{float}% place tables in exact positions
+% Redefine some parameters of floats
+\usepackage{booktabs}% improves the look of tables
+
+% Double Space report
+
+
+% Title Page
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package none
+\inputencoding auto
+\fontencoding default
+\font_roman "lmodern" "default"
+\font_sans "default" "default"
+\font_typewriter "lmodern" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype true
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing onehalf
+\use_hyperref true
+\pdf_bookmarks false
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref section
+\pdf_pdfusetitle false
+\papersize default
+\use_geometry true
+\use_package amsmath 2
+\use_package amssymb 0
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 0
+\use_package mhchem 0
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle fancy
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+% Upper part of the page
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\shape smallcaps
+\size larger
+Problem Set 3
+\shape default
+, Part 2
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+[0.5cm]
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+% Title
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+HRule
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+[0.6cm]
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\series bold
+\size huge
+ Memory models
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+[0.2cm]
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+HRule
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+[2.5cm]
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+% Report
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Hopfield model
+\end_layout
+
+\begin_layout Subsection*
+Introduction
+\end_layout
+
+\begin_layout Standard
+The goal of this problem set is to explore the behavior of the Hopfield
+ model.
+ Specifically, we are interested in addressing several questions regarding
+ the time it takes to recall a memory and the sizes of basins of attraction
+ in the Hopfield model.
+ Make sure to download the Matlab example code 
+\family typewriter
+HopfieldExample.m
+\family default
+ from the zip archive on the 
+\begin_inset CommandInset href
+LatexCommand href
+name "course website"
+target "http://druckmann-lab.github.io/nepr208/"
+literal "false"
+
+\end_inset
+
+.
+ You will modify the code to answer the questions below.
+\end_layout
+
+\begin_layout Standard
+One note about the implementation–you do not have to scan parameters (like
+ number of patterns 
+\begin_inset Formula $P$
+\end_inset
+
+, and basin of attraction size 
+\begin_inset Formula $K$
+\end_inset
+
+) at a level of resolution of every 
+\begin_inset Formula $P$
+\end_inset
+
+ and 
+\begin_inset Formula $K$
+\end_inset
+
+, as this would take too long.  Feel free to scan them at lower resolution–and
+ also you don't have to scan them over the entire range–only over a range
+ in which interesting quantities like recall probability, overlap, and recall
+ time vary in interesting ways.
+ Basically, imagine that you are doing research on the Hopfield model, and
+ you have several hypotheses that as the number of stored patterns increase,
+ basins of attraction get smaller and recall probability goes down, and
+ recall time (conditional on successful recall) goes up.
+ Lets say you want to present numerical evidence for these conjectures in
+ the form some figures for a paper.
+ Then part of your job would be not only figuring out what to plot (which
+ is outlined in the different parts of the problem) but also over what ranges
+ and what resolution of parameters to plot at (for which we gave initial
+ suggestions that are most likely suboptimal).
+ So feel free to make your own decisions about what exactly to plot.
+\end_layout
+
+\begin_layout Subsection
+Basins of Attraction
+\end_layout
+
+\begin_layout Standard
+First, we will investigate the basins of attraction.
+ A 
+\shape italic
+basin of attraction
+\shape default
+ in the Hopfield model is set of neural activity patterns, that when set
+ as the initial condition, all converge to the same attractor state (Figure
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:energy"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+).
+ We would like to understand properties of the basins of attraction, because
+ they directly correspond to how corrupt a recoverable memory can be.
+ Here, we will explore how big the basins of attraction are as a function
+ of the number of patterns in the network (
+\begin_inset Formula $P$
+\end_inset
+
+) and the amount of corruption (
+\begin_inset Formula $K$
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Standard
+In class, we talked through an example with only 
+\begin_inset Formula $N=4$
+\end_inset
+
+ neurons, where it was very easy to see how ``corrupted
+\begin_inset Quotes erd
+\end_inset
+
+ a pattern was by counting the number of mismatched places.
+ Here, when we simulate larger networks, we'll need an automatic way to
+ quantify how close patterns are.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h!
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename energy.png
+	width 60text%
+
+\end_inset
+
+ 
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Energy Landscape of a Hopfield Network.
+ The memories in the network are attractor states (local minima) of the
+ energy landscape.
+ Given an initial condition (e.g.
+ a partial memory) in a particular basin of attraction, the dynamics of
+ the network are such that the network settles at the attractor.
+ 
+\shape italic
+(Image from 
+\begin_inset CommandInset href
+LatexCommand href
+name "Wikipedia"
+target "http://www.wikiwand.com/en/Hopfield\\_network"
+literal "false"
+
+\end_inset
+
+)
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:energy"
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+The code (see lines 15-17) fixes 
+\begin_inset Formula $P$
+\end_inset
+
+ random patterns stored in a Hopfield network of size 
+\begin_inset Formula $N=1000$
+\end_inset
+
+ by defining the network connectivity (
+\begin_inset Formula $J$
+\end_inset
+
+) as the outer product of the patterns.
+ If you run the code, it will build the Hopfield network, initialize the
+ network at either a random location (if 
+\family typewriter
+InitCondType
+\family default
+ is 1) or at a location that is 
+\begin_inset Formula $K$
+\end_inset
+
+ bit flips away from one of the original patterns (if 
+\family typewriter
+InitCondType
+\family default
+ is 2), and finally run the dynamics of the network.
+ There is code at the bottom that visualizes the overlap of the current
+ network state with each of the learned patterns.
+ Successful recall occurs when, after running the dynamics, when the network
+ is attracted to one of the input patterns (one of the overlap bars should
+ shoot up close to 1, as in Figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:recall"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+).
+ With 
+\family typewriter
+InitCondType
+\family default
+ set to 1, verify that the network successfully recalls a stored pattern
+ (we will define successful recall if the final maximum overlap is at least
+ 0.9).
+ If you increase the number of patterns, 
+\begin_inset Formula $P$
+\end_inset
+
+, to 200, does the network recall the pattern? 
+\end_layout
+
+\begin_layout Enumerate
+For 
+\begin_inset Formula $P$
+\end_inset
+
+ ranging from 20 to 600, start the network from an initial condition consisting
+ of 
+\begin_inset Formula $K$
+\end_inset
+
+ bit flips away from a randomly chosen stored pattern (
+\family typewriter
+InitCondType
+\family default
+ = 2) for 
+\begin_inset Formula $K$
+\end_inset
+
+ ranging from 1 to 500 (you don't need to test every value in this range),
+ and check to see if the network goes back to the stored pattern–i.e.
+ if the fixed point that the network arrives at has overlap 
+\begin_inset Formula $>0.9$
+\end_inset
+
+ with the stored pattern (the variable 
+\family typewriter
+successful_recall
+\family default
+ computes this).
+ You will have to write your own 
+\family typewriter
+for
+\family default
+ loops to accomplish this.
+ You do not need to test every value of 
+\begin_inset Formula $P$
+\end_inset
+
+ and 
+\begin_inset Formula $K$
+\end_inset
+
+ in the range–for example, in Matlab, you can use 
+\family typewriter
+for P=20:5:600
+\family default
+ to scan 
+\begin_inset Formula $P$
+\end_inset
+
+ from 20 to 600 in steps of 5, for example.
+ For 
+\begin_inset Formula $K=1$
+\end_inset
+
+, around what value of 
+\begin_inset Formula $P/N$
+\end_inset
+
+ does the system transition from successful to failed recall? As 
+\begin_inset Formula $K$
+\end_inset
+
+ gets bigger, does this critical 
+\begin_inset Formula $P/N$
+\end_inset
+
+ value increase, decrease, or stay the same? 
+\end_layout
+
+\begin_layout Enumerate
+For each 
+\begin_inset Formula $K$
+\end_inset
+
+ and 
+\begin_inset Formula $P$
+\end_inset
+
+, repeat this procedure multiple times (say for 
+\begin_inset Formula $\geq100$
+\end_inset
+
+ trials) to estimate the probability that a network will be able to recall
+ a stored pattern from a corrupted version.
+ Plot this probability as a heat map (using the 
+\family typewriter
+imagesc
+\family default
+ or 
+\family typewriter
+pcolor
+\family default
+ commands) as a function of 
+\begin_inset Formula $K/N$
+\end_inset
+
+ and 
+\begin_inset Formula $P/N$
+\end_inset
+
+.
+ This will give you an indication of how the size of basins of attraction
+ shrink as the number of stored patterns increases.
+ Also, by plotting this in terms of the ratios, you will obtain a plot that
+ will remain invariant as 
+\begin_inset Formula $N$
+\end_inset
+
+ increases.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Comment on how this plot relates to the Hopfield capacity of 
+\begin_inset Formula $P_{\text{max}}=0.14N$
+\end_inset
+
+.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+% 
+\backslash
+item Instead of plotting the probability that the overlap with the chosen
+ stored pattern is $> 0.9$, plot also the mean overlap with the chosen stored
+ pattern across trials as a heat map as a function of $K/N$ and $P/N$.
+ This provides a view of the location of nearby valleys in the energy landscape
+ (valleys near the one containing the uncorrupted chosen pattern).
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h!
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename recall.png
+	width 70text%
+
+\end_inset
+
+ 
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Successful (left) and unsuccessful (right) memory recall in a Hopfield model.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:recall"
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Recall probability and recall time (extra credit)
+\end_layout
+
+\begin_layout Standard
+Local minima of the energy function are memories of the Hopfield network.
+ Although our learned (desired) patterns are local minima, there are also
+ spurious local minima.
+ Next, we will look at the probability that we recall one of the original
+ 
+\begin_inset Formula $P$
+\end_inset
+
+ patterns given a random initial condition (as opposed to a spurious local
+ minima).
+ This is the 
+\shape italic
+recall probability
+\shape default
+.
+ We will also look at the 
+\shape italic
+recall time
+\shape default
+, the number of update steps required to reach one of the existing patterns.
+ Note that this problem is extra credit.
+\end_layout
+
+\begin_layout Enumerate
+Again, we will start with 
+\begin_inset Formula $P$
+\end_inset
+
+ random patterns stored in a Hopfield network of size 
+\begin_inset Formula $N=1000$
+\end_inset
+
+.
+ For 
+\begin_inset Formula $P$
+\end_inset
+
+ ranging from 20 to 600, run the network multiple times (say 100 times)
+ from a completely random initial condition (
+\family typewriter
+InitCondType
+\family default
+ = 1).
+ Record the fraction of times that the network achieves a recall state (just
+ like before, if the final state has a large overlap (
+\begin_inset Formula $>0.9$
+\end_inset
+
+ in absolute value)) with one of the 
+\begin_inset Formula $P$
+\end_inset
+
+ patterns.
+ Plot this fraction as a function of 
+\begin_inset Formula $P/N$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Also, plot the mean and standard deviation (across trials in which a recall
+ state was found) of the 
+\shape italic
+time
+\shape default
+ (number of iterations of the dynamics) it takes to find a recall state,
+ as a function of 
+\begin_inset Formula $P$
+\end_inset
+
+.
+ This plot will terminate as some early value of 
+\begin_inset Formula $P$
+\end_inset
+
+ because at larger values, the network will never be able to find a recall
+ state from a random initial condition.
+ 
+\end_layout
+
+\begin_layout Enumerate
+What is the relationship between the recall time and recall probability?
+ 
+\end_layout
+
+\end_body
+\end_document

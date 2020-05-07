@@ -1,7 +1,5 @@
 function BinaryPerceptronSampleCode(randSeed, inputNeuronNum, patternNum, learningRate)
 
-% code by: Shaul Druckmann
-
 rng('default');
 rng(randSeed);
 

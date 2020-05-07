@@ -1,13 +1,15 @@
 # jemdoc: menu{MENU}{ps3.html}, title{nepr208 | Problem set 3}
-= Problem set 3: Neural coding and adaptation
+= Problem set 3: Neural adaptation and memory models
 
-In this problem set, you will explore neural coding and adaptation using retinal data as well as your integrate-and-fire and Hodgkin-Huxley simulations from last week.
+In this problem set, you will explore neural adaptation using a Hodgkin-Huxley simulation. Then you will explore the behavior of the Hopfield model. 
 
 == Exercises
-- Problem set 3: *[pdf/ps3.pdf PDF]*
+- Part 1, Adaptation: *[pdf/ps3_part1.pdf PDF]*
+- Part 2, Hopfield model: *[pdf/ps3_part2.pdf PDF]*
 
 == Code / data files
-- You can download starter code and data files here: *[code/ps3.zip ZIP]*
+- You can download starter code for part 1 here: *[code/ps3_part1.zip ZIP]*
+- You can download starter code for part 2 here: *[code/ExploreHopfield.m ExploreHopfield]
 
 == Submission
 You may work in groups, but please write up your own solutions. 
