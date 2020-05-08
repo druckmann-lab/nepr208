@@ -588,7 +588,7 @@ noprefix "false"
 \family typewriter
 InitCondType
 \family default
- set to 1, verify that the network successfully recalls a stored pattern
+ set to 2, verify that the network successfully recalls a stored pattern
  (we will define successful recall if the final maximum overlap is at least
  0.9).
  If you increase the number of patterns, 

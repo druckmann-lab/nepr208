@@ -726,13 +726,7 @@ Bonus: perform the same analysis for larger
 \end_inset
 
 ? More generally, how would you expect the memory capacity of the hopfield
- network to scale with the number of neurons? Comment on how this plot relates
- to the Hopfield capacity of 
-\begin_inset Formula $P_{\text{max}}=0.14N$
-\end_inset
-
-.
- 
+ network to scale with the number of neurons?
 \begin_inset ERT
 status open
 
