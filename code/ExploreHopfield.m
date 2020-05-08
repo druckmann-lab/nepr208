@@ -5,7 +5,7 @@ close all;
 clear all;
 
 N = 1000; % number of neurons
-P = 200;  % number of patterns to be stored
+P = 100;  % number of patterns to be stored
 T = 300;  % maximial number of iterations to run Hopfield Model
 
 % Note when N=1000, the Hopfield capacity is P ~ 0.14N ~ 140.  Thus the
@@ -16,12 +16,12 @@ patterns = sign(randn(N,P));  % patterns(:,i) = column vector of the i'th random
 
 J = sqrt(1/N) * patterns * patterns';  % Hopfield connectivity matrix to store patterns
 
-InitCondType = 1;  % type of initial condition
+InitCondType = 2;  % type of initial condition
                       % 1 = completely random
                       % 2 = K random flips from a randomly chosen stored pattern
                       
 
-K = 300;  % number of spins/neurons to flip in scenario InitCondType = 2;
+K = 100;  % number of spins/neurons to flip in scenario InitCondType = 2;
                       
 if InitCondType == 1
     InitCond = sign(randn(N,1));
