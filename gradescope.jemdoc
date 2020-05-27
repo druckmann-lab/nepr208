@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{gradescope.html}, title{nepr208 | Gradescope}
+= NEPR 208 Gradescope
+
+== For students
+- If you're enrolled in the class on canvas, you should be added to the gradescope course NEPR 208 automatically. If you weren't, email us for an entry code. 
+
+== For graders
+- If you want to grade entire submissions at once (rather than question by question), start grading, then use the number pulldown menu at the top (or the keyboard shortcuts "," and ".") to run through the questions within a single submission. 
+- If you need info from another page in the submission and the left and right page arrows aren't enable, click the "all pages" button at the bottom, then pick the page you need. 
+- To do: (better) way to connect questions in template to questions while grading. 
+
+
+
+
