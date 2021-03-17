@@ -1,9 +1,16 @@
 # jemdoc: menu{MENU}{lecture1.html}, title{nepr208 | Lecture 1}
-= NEPR 208 Lecture I - 4/20
+= NEPR 208 Lecture I - 4/19
 
-== Readings
+== Pre lesson readings
+No reading, but please take a look at the preparatory math notes by the Mathtools team
+
+== General readings
 
 Perceptron notes: *[advanced/lecture1.pdf PDF]*
+
+== Advanced readings
+
+Hertz, Krogh, Palmer Introduction to the theory of neural computation, chapters 5,6
 
 == Slides
 
