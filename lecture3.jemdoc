@@ -3,15 +3,15 @@
 
 == Readings
 Please read the following paper:
-#- [http://jov.arvojournals.org/article.aspx?articleid=2192881 Schwartz et. al. 2006 (a review of spike-triggered analysis)]
+- [http://jov.arvojournals.org/article.aspx?articleid=2192881 Schwartz et. al. 2006 (a review of spike-triggered analysis)]
 And skim the following papers:
-#- [http://jn.physiology.org/content/96/5/2724.long Fairhall 2006 (applies spike-triggered covariance analysis to retinal data)]
-#- [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3721832/ Mease et. al. 2013 (investigates adaptation in single neuron models)]
+- [http://jn.physiology.org/content/96/5/2724.long Fairhall 2006 (applies spike-triggered covariance analysis to retinal data)]
+- [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3721832/ Mease et. al. 2013 (investigates adaptation in single neuron models)]
 
 
-#== Advanced Readings
-#- [https://www.ncbi.nlm.nih.gov/pubmed/27477016 Aljadeff, Landsdell, Fairhall, Kleinfeld 2016. Analysis of Neuronal Spike Trains, Deconstructed]
-#- [https://www.nature.com/articles/nn.4244 Yamins and DiCarlo 2016]
+== Advanced Readings
+- [https://www.ncbi.nlm.nih.gov/pubmed/27477016 Aljadeff, Landsdell, Fairhall, Kleinfeld 2016. Analysis of Neuronal Spike Trains, Deconstructed]
+- [https://www.nature.com/articles/nn.4244 Yamins and DiCarlo 2016]
 
 #== Slides
 
