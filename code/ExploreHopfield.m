@@ -14,7 +14,7 @@ T = 300;  % maximial number of iterations to run Hopfield Model
 
 patterns = sign(randn(N,P));  % patterns(:,i) = column vector of the i'th random pattern
 
-J = sqrt(1/N) * patterns * patterns';  % Hopfield connectivity matrix to store patterns
+J = 1/N * patterns * patterns';  % Hopfield connectivity matrix to store patterns
 
 InitCondType = 2;  % type of initial condition
                       % 1 = completely random
