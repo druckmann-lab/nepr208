@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  5 MAY 2021 15:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  5 MAY 2021 17:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -690,7 +690,7 @@ Missing character: There is no   in font ptmr7t!
  [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<energy.png, id=29, 1284.8pt x 454.69875pt>
+<energy.png, id=28, 1284.8pt x 454.69875pt>
 File: energy.png Graphic file (type png)
  <use energy.png>
 Package pdftex.def Info: energy.png used on input line 102.
@@ -707,12 +707,12 @@ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.112   \item C
-               omment on how this plot relates to the Hopfield capacity of $...
- <./energy.png>] <recall.png, id=49, 1003.75pt x 415.5525pt>
+l.112   \item B
+               onus: perform the same analysis for larger $N$ (say, $N$ = 20...
+ <./energy.png>] <recall.png, id=48, 1003.75pt x 415.5525pt>
 File: recall.png Graphic file (type png)
  <use recall.png>
-Package pdftex.def Info: recall.png used on input line 118.
+Package pdftex.def Info: recall.png used on input line 120.
 (pdftex.def)             Requested size: 328.82707pt x 136.13724pt.
 
 No file ps3.bbl.
@@ -723,23 +723,23 @@ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.141 \end{document}
+l.143 \end{document}
                      <./recall.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 143.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
  (./ps3.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 141.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 143.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 143.
 Package rerunfilecheck Info: File `ps3.out' has not changed.
 (rerunfilecheck)             Checksum: 520F16184411289BE36EBB2B700E6EE4;218.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 141.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 143.
  ) 
 Here is how much of TeX's memory you used:
- 10008 strings out of 492995
- 150810 string characters out of 6132704
+ 10004 strings out of 492995
+ 150740 string characters out of 6132704
  278431 words of memory out of 5000000
- 13296 multiletter control sequences out of 15000+600000
- 36045 words of font info for 128 fonts, out of 8000000 for 9000
+ 13292 multiletter control sequences out of 15000+600000
+ 35031 words of font info for 126 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  31i,10n,43p,1113b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
@@ -751,10 +751,10 @@ texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2017/texmf-dist/
 fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
 1/urw/times/utmr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/time
 s/utmri8a.pfb>
-Output written on ps3.pdf (3 pages, 197111 bytes).
+Output written on ps3.pdf (3 pages, 197290 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 73 compressed objects within 1 object stream
+ 91 PDF objects out of 1000 (max. 8388607)
+ 72 compressed objects within 1 object stream
  17 named destinations out of 1000 (max. 500000)
- 21027 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 20003 words of extra memory for PDF output out of 20736 (max. 10000000)
 
