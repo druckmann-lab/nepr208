@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{lecture6.html}, title{nepr208 | Lecture 6}
+= NEPR 208 Lecture VI - 5/5
+
+== Pre lesson readings
+Not obligatory, but feel free to read the original paper if you like:
+- [http://www.pnas.org/content/79/8/2554.short Hopfield 1982 (A classic paper)]
+
+== Readings
+- [http://www.nature.com/neuro/journal/v19/n3/abs/nn.4237.html Review article by Chaudhuri and Fiete 2016 (Computational principles of memory)]
+- [http://www.pnas.org/content/79/8/2554.short Hopfield 1982 (A classic paper)]
+
+== Advanced readings
+Hertz, Krogh, Palmer Introduction to the theory of neural computation, chapters 1-3
+Amit, Gutfreund, Sompolinsky Storing infinite numbers of patterns in a spin-glass model of neural networks, PRL 1985
+
+== Slides
+
+*[slides/lecture6.pdf PDF]*
+
+== Additional
+- Detailed lecture notes on Hopefield network: *[slides/HopfieldLectureNotes_c3.pdf PDF]*

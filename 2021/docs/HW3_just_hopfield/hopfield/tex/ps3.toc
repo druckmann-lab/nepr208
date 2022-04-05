@@ -1,0 +1,4 @@
+\contentsline {section}{\numberline {1}Hopfield model}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Basins of Attraction}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Recall probability and recall time (extra credit)}{3}{subsection.1.2}
+\contentsline {section}{\numberline {2}Perceptron Learning}{4}{section.2}
