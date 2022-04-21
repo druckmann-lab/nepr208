@@ -1,0 +1,77 @@
+IPSPs and Intrinsic excitability
+1800 Trial duration (ms)
+   0 Base current (nA)
+  25 Onset of step (ms)
+ 225 Offset of step
+   0 Injected current (nA)
+  15 gNa (0-20 ÊS)
+   2 gK  (0-4)
+  30 pT (0-40 pL/sec)
+  80 pL (0-100)
+   2 gC (0-2)
+   1 gA (0-2)
+   0 gM (0-0.1)
+   0 gAHP (0-0.1)
+0.147 pKleak (0-1)
+0.00795 pNaleak (0-0.1)
+ -65 Starting Vm (mV)
+ 200 onset of ipsc
+ 0.4 gIPSP (0-0.1)
+ 500 onset of epsc
+   0 gEPSP (0-0.1)
+   1 mM [Mg]o (1)
+   2 mM [Ca]o (2)
+  10 nM [Ca]i (10)
+ 3.1 mM [K]o (3.1)
+ 135 mM [K]i (135)
+ 145 mM [Na]o (145)
+  31 mM [Na]i (31)
+ 120 mM [Cl]o (120)
+   4 mM [Cl]i (7)
+ 2.5 IPSP frequency (Hz)
+   1 Number of IPSPs
+  16 IPSC kinetics factor
+   1 GABAa weight
+1.000e-6 GABAb weight
+   0 EPSP frequency (Hz)
+   0 Number of EPSPs
+   1 EPSC kinetics factor
+   1 AMPA weight
+   1 NMDA weight
+   0 gNap
+   0 gH
+   0 H shift (mV)
+   1 Gate #1 (mC)
+   2 Gate #2 (hNa)
+   3 Gate #3 (mK)
+   1 Maximum dV for plot (mV)
+   1 Maximum dt for plot (ms)
+   0 Plot(1-LPT1.F,2-LJ3.F,3-file)
+ 0.5 Max %change in gates
+   2 Model (1=Step.F,2=Euler.F,3=RK
+29000 Membrane area (sq Ê)
+ 0.1 depth (Ê)
+   1 Ca removal (·.F, 1/ms)
+  35 temperature (¯C)
+scaling
+   10  -100    60 0 mV V m
+  0.5  -0.5     0 0 nA I Inj
+    5     0     0 0 nA I cap
+    3     0     0 0 ÊM [Ca++] i
+  100     0     0 0 nA I C
+  0.4  -0.5     0 0 nA I H
+    0    -5     1 0 nA I T
+    1     0     0 0 nA I A
+    0    -2     0 0 nA I L
+    0   -50     0 1 nA I Na
+   50     0     0 0 nA I K
+  0.5     0     0 0 nA I M
+  0.5     0     0 0 nA I AHP
+  0.2     0     0 0 nA I Nap
+  0.1     0     0 0 nA I AMPA
+  0.1     0     0 0 nA I NMDA
+  0.4     0     1 1 nA I GABAa
+0.005     0     0 0 nA I GABAb
+    1     0     0 0 O g 1
+    1     0     0 0 O g 2
+    1     0     0 0 O g 3
