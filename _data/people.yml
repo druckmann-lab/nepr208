@@ -2,6 +2,12 @@ instructors:
   - name: Shaul Druckmann
     profile_pic: /_images/pp/happy_shaul.jpg
     webpage:  https://www.druckmannlab.com
+  - name: John Huguenard
+    profile_pic: /_images/pp/john-huguenard_profilephoto.jpg
+    webpage:  https://huguenardlab.stanford.edu/  
+  - name: Stephen Baccus
+    profile_pic: /_images/pp/stephen-baccus_profilephoto.jpg
+    webpage:  https://sites.stanford.edu/baccuslab/
     
 teaching_assistants:
   - name: Lydia Hamburg
