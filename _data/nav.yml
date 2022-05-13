@@ -1,0 +1,28 @@
+items:
+- url_internal: /
+  name: Home
+  icon_class: fa fa-home fa-lg
+
+- url_internal: /schedule/
+  name: Schedule
+  icon_class: fas fa-calendar-alt
+
+- url_internal: /lectures/
+  name: Lectures
+  icon_class: fas fa-book-reader
+
+- url_internal: /assignments/
+  name: Assignments
+  icon_class: fas fa-user-graduate
+
+- url_external: https://piazza.com/stanford/winter2022/nepr209
+  name: Piazza
+  icon_class: fas fa-book
+
+#- url_internal: /project/
+#  name: Project
+#  icon_class: fas fa-user-graduate
+
+#- url_internal: /materials/
+#  name: Materials
+#  icon_class: fas fa-book

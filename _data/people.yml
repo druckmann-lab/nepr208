@@ -1,0 +1,11 @@
+instructors:
+  - name: Minseung Choi
+    profile_pic: /_images/pp/hopeful_minseung.png
+    webpage: https://minseung.com
+  - name: John Kochalka
+    profile_pic: /_images/pp/young_john.png
+
+teaching_assistants:
+  - name: Shaul Druckmann
+    profile_pic: /_images/pp/happy_shaul.jpg
+    webpage: https://www.druckmannlab.com
