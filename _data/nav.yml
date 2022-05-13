@@ -15,9 +15,9 @@ items:
   name: Assignments
   icon_class: fas fa-user-graduate
 
-- url_external: https://piazza.com/stanford/winter2022/nepr209
-  name: Piazza
-  icon_class: fas fa-book
+#- url_external: https://piazza.com/stanford/winter2022/nepr209
+#  name: Piazza
+#  icon_class: fas fa-book
 
 #- url_internal: /project/
 #  name: Project
