@@ -14,6 +14,10 @@ hide_from_announcments: true
 #      name: codes
 #    - url: /static_files/presentations/lecture1.pdf
 #      name: slides
+
+
+#**Suggested Material:**
+#- [3Brown1Blue "Essence of Linear Algebra"](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 ---
 
 **Pre-lesson reading:**
@@ -23,5 +27,3 @@ hide_from_announcments: true
 **Optional Material:**
 - Hertz, Krogh, Palmer Introduction to the theory of neural computation, chapters 5 and 6
 
-#**Suggested Material:**
-#- [3Brown1Blue "Essence of Linear Algebra"](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
