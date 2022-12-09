@@ -23,5 +23,5 @@ hide_from_announcments: true
 **Optional Material:**
 - Hertz, Krogh, Palmer Introduction to the theory of neural computation, chapters 5 and 6
 
-**Suggested Material:**
-- [3Brown1Blue "Essence of Linear Algebra"](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+#**Suggested Material:**
+#- [3Brown1Blue "Essence of Linear Algebra"](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
