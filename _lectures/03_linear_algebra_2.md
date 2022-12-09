@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-01-20T17:00:00-8:00
-title: Linear Algebra II
+title: Linear Algebra X
 description: "Change of basis, eigenvalues and eigenvectors, principal components analysis (PCA)."
 thumbnail: /static_files/lectures/sample_lecture_img.png
 
