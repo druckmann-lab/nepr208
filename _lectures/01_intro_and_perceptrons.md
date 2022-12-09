@@ -20,7 +20,7 @@ links:
     - url: /static_files/notes/lecture1.pdf
       name: notes
     - url: /static_files/presentations/lecture1.pdf
-      name: slides
-*/
+      name: slides */
+
 ---
 
