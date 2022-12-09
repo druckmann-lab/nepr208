@@ -7,6 +7,7 @@ thumbnail: /static_files/lectures/sample_lecture_img.png
 
 hide_from_announcments: false
 
+/* 
 **Pre-lesson reading:**
 - [Vectors (10 minute video)](https://www.youtube.com/watch?v=fNk_zzaMoSs)
 - [Dot product (the relevant part is the first 2 minutes 10 seconds, but feel free to watch the whole thing if you like)](https://www.youtube.com/watch?v=LyGKycYT2v0)
@@ -21,3 +22,4 @@ links:
     - url: /static_files/presentations/lecture1.pdf
       name: slides
 ---
+*/
