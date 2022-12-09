@@ -5,7 +5,7 @@ title: Introduction and perceptrons
 description: "Course goals and logistics. Vectors, linear combinations, span, matrices as linear transformations, matrix multiplication, determinants, matrix inverse, range, nullspace."
 thumbnail: /static_files/lectures/sample_lecture_img.png
 
-hide_from_announcments: true
+hide_from_announcments: false
 
 **Pre-lesson reading:**
 - [Vectors (10 minute video)](https://www.youtube.com/watch?v=fNk_zzaMoSs)
