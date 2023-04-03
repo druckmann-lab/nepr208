@@ -7,14 +7,9 @@ thumbnail: /static_files/lectures/sample_lecture_img.png
 
 hide_from_announcments: true
 
-#links: 
-#    - url: /static_files/notes/lecture1.pdf
-#      name: notes
-#    - url: /static_files/presentations/code.zip
-#      name: codes
-#    - url: /static_files/presentations/lecture1.pdf
-#      name: slides
-
+links: 
+    - url: /static_files/lectures/lecture1_notes.pdf
+      name: notes
 
 #**Suggested Material:**
 #- [3Brown1Blue "Essence of Linear Algebra"](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
