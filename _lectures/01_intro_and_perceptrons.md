@@ -8,6 +8,8 @@ thumbnail: /static_files/lectures/sample_lecture_img.png
 hide_from_announcments: true
 
 links: 
+    - url: /static_files/lectures/lecture1_slides.pdf
+      name: slides
     - url: /static_files/lectures/lecture1_notes.pdf
       name: notes
 
