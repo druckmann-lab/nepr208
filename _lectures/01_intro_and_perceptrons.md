@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2022-01-06T17:00:00-8:00
+date: 2023-04-03T17:00:00-8:00
 title: Introduction and perceptrons
-description: "Course goals and logistics. Vectors, linear combinations, span, matrices as linear transformations, matrix multiplication, determinants, matrix inverse, range, nullspace."
+description: "Course goals and logistics. Introduction to perceptrons, the basic model of synaptic learning."
 thumbnail: /static_files/lectures/sample_lecture_img.png
 
 hide_from_announcments: true
