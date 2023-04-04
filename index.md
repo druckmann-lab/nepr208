@@ -3,6 +3,8 @@ layout: home
 ---
 Our course meets Monday, Wednesday, and Friday, 1:30 PM - 3:20 PM, starting 04/03/2023 and ending 04/21/2023. Mondays and Wednesdays will be lectures, and on Friday students will work on and discuss the problem sets.
 
+All classes will meet in LK308 except on April 7th and April 14th. On April 7th and April 14th class will meet in M315.
+
 - Professor Druckmann's office hours are Fridays, 3:30-4:30 PM
 - Lydia's office hours are Wednesdays, 11:00 AM-12:00 PM
 
