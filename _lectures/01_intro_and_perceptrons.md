@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-04-03T13:30:00-1:30
+date: 2023-04-03T13:30
 title: Introduction and perceptrons
 description: "Course goals and logistics. Introduction to perceptrons, the basic model of synaptic learning."
 thumbnail: /static_files/lectures/sample_lecture_img.png
