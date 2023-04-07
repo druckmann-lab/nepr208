@@ -21,6 +21,7 @@ If you are doing part 2, install the program (you will get two programs installe
 Here is the [original book](https://hlab.stanford.edu/eotn/ELECTROPHYSIOLOGY%20OF%20THE%20NEURON.pdf) (the book is out of print, but there is a pdf) that David McCormick (Yale University) and John Huguenard wrote to develop some simple exercises for teaching in a dry lab the basics of resting membrane potentials, stimulation, synapses, action potentials, synaptic currents, etc.
 
 You can download the .cc5 files you need for part 2, which is for extra credit, [here](../static_files/code/ps1_pt2_exp1.cc5)
+
 And here is a link to the archived parameter files to be used for the exercises in the book: [eotn_parameters_v4.tgz](../static_files/code/eotn_parameters_v4.tgz)
 
 If you are interested, you can see a historical web page describing the book [here](http://eotn.stanford.edu)
