@@ -30,7 +30,7 @@ We have created a small (2GByte) virtual machine with the EOTN software for your
 
 1) First download and install virtualbox on your computer if you don't already have it https://www.virtualbox.org/wiki/Downloads
 
-2) The download a virtual machine I made: https:/hlab.stanford.edu/xp3.vdi
+2) The download a virtual machine I made https:/hlab.stanford.edu/xp3.vdi
 
 3) Then make a new device using this machine file.
 
