@@ -8,7 +8,7 @@ due_event:
     description: 'Assignment 1 - Perceptrons and Oscillations'
 ---
 
-[Part 1](../static_files/problem_sets/ProblemSetPerceptrons.pdf) and [Part 2 (Extra Credit)](../static_files/problem_sets/ps1_part2_extra_credit.pdf)
+[Part 1](../static_files/problem_sets/ProblemSetPerceptrons.pdf) with [python notebook](https://colab.research.google.com/drive/1eSSMoC9pAhg6rIx9leeD_5otvGko8LbT?usp=sharing) and [Part 2 (Extra Credit)](../static_files/problem_sets/ps1_part2_extra_credit.pdf)
 
 If you get stuck on [part 1](../static_files/problem_sets/ProblemSetPerceptrons.pdf), you can download some sample perceptron code [here](../static_files/code/BinaryPerceptronSampleCode.m)
 
