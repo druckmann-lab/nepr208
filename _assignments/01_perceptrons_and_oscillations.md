@@ -24,3 +24,20 @@ You can download the .cc5 files you need for part 2, which is for extra credit, 
 And here is a link to the archived parameter files to be used for the exercises in the book: [eotn_parameters_v4.tgz](../static_files/code/eotn_parameters_v4.tgz)
 
 If you are interested, you can see a historical web page describing the book [here](http://eotn.stanford.edu)
+
+For using EOTN on Mac:
+We have created a small (2GByte) virtual machine with the EOTN software for your use.  This will run on linux or MacOS, and will allow you to run the software on a non-Windows machine.  Here are the instructions:
+
+1) First download and install virtualbox on your computer if you don't already have it. [virtualbox](https://www.virtualbox.org/wiki/Downloads)
+
+2) The download a virtual machine I made: [virtual machine](https:/hlab.stanford.edu/xp3.vdi)
+
+3) Then make a new device using this machine file.
+
+  a) using virtualbox manager, click on "New"
+
+  b) chose a name "nepr208", type "Microsoft windows", Version "XP (32bit)"
+
+  c) when it asks you for the hard disk to use, take the option ""Use and Existing virtual hard disk file", and then point to the xp.vdi file you just downloaded.
+
+4) This should give you a virtual XP machine with the two icons for the software.
