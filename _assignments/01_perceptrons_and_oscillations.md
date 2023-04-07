@@ -29,7 +29,7 @@ If you are interested, you can see a historical web page describing the book [he
 For using EOTN on Mac:
 We have created a small (2GByte) virtual machine with the EOTN software for your use.  This will run on linux or MacOS, and will allow you to run the software on a non-Windows machine.  Here are the instructions:
 
-1) First download and install virtualbox on your computer if you don't already have it https://www.virtualbox.org/wiki/Downloads
+1) First download and install virtualbox on your computer if you don't already have it: https://www.virtualbox.org/wiki/Downloads
 
 2) The download a virtual machine I made: https:/hlab.stanford.edu/xp3.vdi
 
