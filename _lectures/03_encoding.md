@@ -10,6 +10,7 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/lecture3_slides.pdf
       name: slides
+---
 
 **Suggested reading:**
 - [Schwartz et. al. 2006 (a review of spike-triggered analysis)](http://jov.arvojournals.org/article.aspx?articleid=2192881)
