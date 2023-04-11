@@ -21,4 +21,3 @@ links:
 
 **Optional Material:**
 - Hertz, Krogh, Palmer Introduction to the theory of neural computation, chapters 5 and 6
-
