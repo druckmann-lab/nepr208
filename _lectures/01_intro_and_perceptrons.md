@@ -12,6 +12,7 @@ links:
       name: slides
     - url: /static_files/lectures/lecture1_notes.pdf
       name: notes
+      
 ---
 
 
