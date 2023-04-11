@@ -29,7 +29,7 @@ permalink: blog/:year/:month/:title
 excerpt_separator: "<!--more-->"
 
 include: ['_images', '_css']
-exclude: ['develop']
+exclude: ['develop', '2017', '2018', '2019', '2020', '2021', '2022']
 
 dateformat: "%a %-m/%-d/%Y"
 onlydateformat: "%-m/%-d/%Y"
