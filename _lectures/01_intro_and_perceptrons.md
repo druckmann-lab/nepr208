@@ -12,10 +12,11 @@ links:
       name: slides
     - url: /static_files/lectures/lecture1_notes.pdf
       name: notes
+---
 
 #**Suggested Material:**
 #- [3Brown1Blue "Essence of Linear Algebra"](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
----
+
 
 **Pre-lesson reading:**
 - [Vectors (10 minute video)](https://www.youtube.com/watch?v=fNk_zzaMoSs)
