@@ -10,6 +10,7 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/lecture3_slides.pdf
       name: slides
+      
 ---
 
 **Suggested reading:**
