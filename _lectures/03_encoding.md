@@ -8,7 +8,7 @@ thumbnail: /static_files/lectures/sample_lecture_img.png
 hide_from_announcments: true
 
 links: 
-    - url: //static_files/lectures/lecture3_slides.pdf
+    - url: ../static_files/lectures/lecture3_slides.pdf
       name: slides
 ---
 
