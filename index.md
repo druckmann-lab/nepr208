@@ -6,6 +6,6 @@ Our course meets Monday, Wednesday, and Friday, 1:30 PM - 3:20 PM, starting 04/0
 All classes will meet in LK308 except on April 7th and April 14th. On April 7th and April 14th class will meet in M315.
 
 - Professor Druckmann's office hours are Fridays, 3:30-4:30 PM
-- Lydia's office hours are Wednesdays, 11:00 AM-12:00 PM
+- Lydia's office hours are Wednesdays, 11:00 AM-12:00 PM on [Zoom](https://stanford.zoom.us/j/92313222513?pwd=cU5NcDZyVWw1MVcrVmVjZzVjRVJuZz09)
 
 Please find the syllabus [here](static_files/nepr_208_syllabus_2023.pdf).
