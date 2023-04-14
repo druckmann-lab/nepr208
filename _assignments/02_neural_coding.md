@@ -19,4 +19,4 @@ Very stuck? Take a peek at some possible answers:
 - [here](../static_files/code/NEPR208_PS2_Code_To_Get_Unstuck.ipynb) for local python,
 - or on [Colab](https://colab.research.google.com/drive/1jz5quQULrj1PHYg5vyxIDooRae7a20VG?usp=sharing)
 
-But if you use this code in your submission, comment the code you submit with a brief explanation of what is happening in each line/chunk of code.
+But if you use the code for getting unstuck in your submission, comment the code you submit with a brief explanation of what is happening in each line/chunk of code.
