@@ -9,8 +9,10 @@ due_event:
 ---
 
 
-[Problem Set 2](../static_files/problem_sets/PS2_2023.pdf)
+Download [Problem Set 2](../static_files/problem_sets/PS2_2023.pdf)
 
 Everyone will need this data file: [rgc_data.h5](../static_files/code/rgc_data.h5)
 - If you'd like to use python, download this starter code: [python notebook](../static_files/code/NEPR208_PS2_Starter_Code.ipynb)
 - If you'd like to use matlab, download this starter code: [matlab files](../static_files/code/ps2_matlab.zip)
+
+Very stuck? Take a peek at some possible answers [here](../static_files/code/NEPR208_PS2_Code_To_Get_Unstuck.ipynb). But if you use this code in your submission, comment the code you submit with a brief explanation of what is happening in each line/chunk of code.
