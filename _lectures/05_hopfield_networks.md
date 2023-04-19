@@ -8,7 +8,7 @@ thumbnail: /static_files/lectures/sample_lecture_img.png
 hide_from_announcments: true
 
 links: 
-    - url: /static_files/lectures/lecture5_slides.pdf
+    - url: ../static_files/lectures/lecture5_slides.pdf
       name: slides
       
 ---
@@ -22,4 +22,4 @@ links:
 - Amit, Gutfreund, Sompolinsky Storing infinite numbers of patterns in a spin-glass model of neural networks, PRL 1985
 
 **Additional resources:**
-- [Detailed lecture notes on Hopfield network](lectures/HopfieldLectureNotes_c3.pdf)
+- [Detailed lecture notes on Hopfield network](../static_files/lectures/HopfieldLectureNotes_c3.pdf)
