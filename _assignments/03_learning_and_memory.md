@@ -11,3 +11,5 @@ due_event:
 Download [Problem Set 3](../static_files/problem_sets/ps3_2023.pdf)
 - If you'd like to use python, use this starter code: [Colab](https://colab.research.google.com/drive/11jWcgG38IbMh2AP33t-cf0ltKNW-ZpFd?usp=sharing)
 - If you'd like to use matlab, download this starter code: [matlab files](../static_files/code/ExploreHopfield.m)
+
+Stuck? Take a [peek](https://colab.research.google.com/drive/1Knh7QK5vqhRqyCcYcDgz-SRrYFwPF1TS?usp=sharing) at some pre-written code you can use to generate answers. If you use the code for getting unstuck in your submission, comment the uncommented sections of the code with a brief explanation of what is happening in each line/chunk of code.
