@@ -1,11 +1,8 @@
 ---
 layout: home
 ---
-Our course meets Monday, Wednesday, and Friday, 1:30 PM - 3:20 PM, starting 04/03/2023 and ending 04/21/2023. Mondays and Wednesdays will be lectures, and on Friday students will work on and discuss the problem sets.
+Our course meets Monday, Wednesday, and Friday, 1:30 PM - 3:20 PM, starting 04/22/2024 and ending 05/10/2024. Mondays and Wednesdays will be lectures, and on Friday students will work on and discuss the problem sets.
 
-All classes will meet in LK308 except on April 7th and April 14th. On April 7th and April 14th class will meet in M315.
+On Mondays, classes will meet in LK120. On Wednesdays and Fridays, class will meet in LK102.
 
-- Professor Druckmann's office hours are Fridays, 3:30-4:30 PM
-- Lydia's office hours are Wednesdays, 11:00 AM-12:00 PM on [Zoom](https://stanford.zoom.us/j/92313222513?pwd=cU5NcDZyVWw1MVcrVmVjZzVjRVJuZz09)
-
-Please find the syllabus [here](static_files/nepr_208_syllabus_2023.pdf).
+Please find the syllabus [here](static_files/nepr_208_syllabus_2024.pdf).
