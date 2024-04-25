@@ -12,6 +12,8 @@ due_event:
 
 If you get stuck on [part 1](../static_files/problem_sets/ProblemSetPerceptrons.pdf), you can download some sample perceptron code [here in matlab](../static_files/code/BinaryPerceptronSampleCode.m) or [here in python notebook](https://colab.research.google.com/drive/1GpJ1anTt2Yor3gnemTdGl9oZT1uZZJPV?usp=sharing)
 
+Submit your code and written answers to Canvas.
+
 [Part two of the problem set](../static_files/problem_sets/ps1_part2.pdf) is optional and explores neural nonlinearities that result in oscillations. These features would not be revealed with simple integrate and fire (IF) networks.
 
 To explore the roles of ion channels in governing neural behavior, the tutorial and software, Electrophysiology of the Neuron (EOTN), is available. The software can be found here: [EOTN](https://huguenardlab.stanford.edu/eotn/)
