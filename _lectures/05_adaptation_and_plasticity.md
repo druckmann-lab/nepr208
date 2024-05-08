@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-05-08T13:30
+date: 2024-05-06T13:30
 title: Adaptation and plasticity
 description: "Neural adaptation. Maximizing information in a noisy neural system. Discussion of biophysical constraints and mechanisms of neural adaptation. Review of the Hodgkin Huxley model. "
 thumbnail: /static_files/lectures/sample_lecture_img.png
@@ -8,7 +8,7 @@ thumbnail: /static_files/lectures/sample_lecture_img.png
 hide_from_announcments: true
 
 links: 
-    - url: /static_files/lectures/lecture_4_adaptive_coding.pdf
+    - url: /static_files/lectures/lecture_4_adaptive_coding.pptx
       name: slides
       
 ---
