@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-05-06T13:30
+date: 2024-05-01T13:30
 title: Neural population analysis
 description: "Introduction to decoding. Linear Discriminant Analysis. Factor Analysis."
 thumbnail: /static_files/lectures/sample_lecture_img.png
