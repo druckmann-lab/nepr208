@@ -1,10 +1,10 @@
 ---
 type: assignment
-date: 2024-04-24
+date: 2024-04-22
 title: 'Assignment 1 - Perceptrons and Oscillations'
 due_event: 
     type: due
-    date: 2024-05-01T23:59:00-8:00
+    date: 2024-04-30T23:59:00-8:00
     description: 'Assignment 1 - Perceptrons and Oscillations'
 ---
 
@@ -14,7 +14,7 @@ If you get stuck on [part 1](../static_files/problem_sets/ProblemSetPerceptrons.
 
 Submit your code and written answers to Canvas.
 
-[Part two of the problem set](../static_files/problem_sets/ps1_part2.pdf) is optional and explores neural nonlinearities that result in oscillations. These features would not be revealed with simple integrate and fire (IF) networks.
+[Part two of the problem set](../static_files/problem_sets/ps1_part2.pdf) is explores neural nonlinearities that result in oscillations. These features would not be revealed with simple integrate and fire (IF) networks.
 
 To explore the roles of ion channels in governing neural behavior, the tutorial and software, Electrophysiology of the Neuron (EOTN), is available. The software can be found here: [EOTN](https://huguenardlab.stanford.edu/eotn/)
 
