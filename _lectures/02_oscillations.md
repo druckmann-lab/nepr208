@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-04-22T13:30
+date: 2025-04-23T13:30
 title: Oscillations
 description: "Network oscillations via coupled inhibitory cells (Wang and Buzsaki, 1996). Oscillations between up and down states (Wilson, 2005) in striatum, and their dependence on KIR channels. Thalamic relay neurons as intrinsic oscillators dependent on interactions between H current and T current, and how synaptic inhibitory responses engage this intrinsic oscillatory activity (McCormick and Pape, 1990)."
 thumbnail: /static_files/lectures/sample_lecture_img.png
