@@ -14,7 +14,7 @@ If you get stuck on [part 1](../static_files/problem_sets/ProblemSetPerceptrons.
 
 Submit your code and written answers to Canvas.
 
-If you would like to try the simulations for yourself for fun, there is a tutorial for the software Electrophysiology of the Neuron (EOTN). The software can be found here: [EOTN](https://huguenardlab.stanford.edu/eotn/)
+If you would like to try the simulations from part 2 of the problem set for fun, there is a tutorial for the software Electrophysiology of the Neuron (EOTN). The software can be found here: [EOTN](https://huguenardlab.stanford.edu/eotn/)
 
 You can download the .cc4 file for the problem set simulations here, [here](../static_files/code/ps1_pt2.cc4)
 
