@@ -14,9 +14,11 @@ If you get stuck on [part 1](../static_files/problem_sets/ProblemSetPerceptrons.
 
 Submit your code and written answers to Canvas.
 
-If you would like to try the simulations from part 2 of the problem set for fun, there is a tutorial for the software Electrophysiology of the Neuron (EOTN). The software can be found here: [EOTN](https://huguenardlab.stanford.edu/eotn/)
+If you would like to try the simulations from part 2 of the problem set, there is a tutorial for the software Electrophysiology of the Neuron (EOTN). The software can be found here: [EOTN](https://huguenardlab.stanford.edu/eotn/)
 
 You can download the .cc4 file for the problem set simulations here, [here](../static_files/code/ps1_pt2.cc4)
+
+If you are running the simulations yourself for part 2 of the problem set, you need to run an executable file that enables superuser mode in order to change the IPSC delay kinetics. Here is a link to do that: [ccwin_poweruser.exe](https://huguenard-lab.stanford.edu/eotn/ccwin_poweruser.exe)
 
 Here is the [original book](https://hlab.stanford.edu/eotn/ELECTROPHYSIOLOGY%20OF%20THE%20NEURON.pdf) (the book is out of print, but there is a pdf) that David McCormick (Yale University) and John Huguenard wrote to develop some simple exercises for teaching in a dry lab the basics of resting membrane potentials, stimulation, synapses, action potentials, synaptic currents, etc.
 
