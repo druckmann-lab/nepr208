@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-04-29T13:30
+date: 2025-04-28T13:30
 title: Neural Encoding
 description: "Review of theory for describing neural responses."
 thumbnail: /static_files/lectures/sample_lecture_img.png
