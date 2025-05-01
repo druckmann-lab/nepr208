@@ -4,7 +4,7 @@ date: 2024-05-01
 title: 'Assignment 2 - Neural coding'
 due_event: 
     type: due
-    date: 2024-05-08T23:59:00-8:00
+    date: 2024-05-07T23:59:00-8:00
     description: 'Assignment 2 - Neural coding'
 ---
 
