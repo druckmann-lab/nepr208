@@ -1,10 +1,10 @@
 ---
 type: assignment
-date: 2024-05-08
+date: 2025-05-07
 title: 'Assignment 3 - Learning and Memory'
 due_event: 
     type: due
-    date: 2024-05-15T23:59:00-8:00
+    date: 2025-05-14T23:59:00-8:00
     description: 'Assignment 3 - Learning and Memory'
 ---
 
