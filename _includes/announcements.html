@@ -3,7 +3,7 @@
 
 {% assign events_to_show = "" | split: "" %}
 {% for e in all_events %}
-    {% unless e.hide_from_announcments %}
+    {% unless e.hide_from_announcments or e.hidden %}
         {% assign events_to_show = events_to_show | push: e %}
     {% endunless %}
 {% endfor %}

@@ -2,7 +2,7 @@
 course_name: Introduction to Computational Neuroscience 
 course_description: "This module will introduce students to computational and theoretical approaches in neuroscience. Emphasis will be on specific questions and how those questions can be answered with computational methods."
 
-course_semester: "Spring 2026"
+course_semester: "Spring 2025"
 
 baseurl: "/nepr208" # the subpath of your site, e.g. /blog/
 url: "http://druckmann-lab.github.io/" # the base hostname & protocol for your site
@@ -29,7 +29,7 @@ permalink: blog/:year/:month/:title
 excerpt_separator: "<!--more-->"
 
 include: ['_images', '_css']
-exclude: ['develop', '2017', '2018', '2019', '2020', '2021', '2022', '2025']
+exclude: ['develop', '2017', '2018', '2019', '2020', '2021', '2022']
 
 dateformat: "%a %-m/%-d/%Y"
 onlydateformat: "%-m/%-d/%Y"

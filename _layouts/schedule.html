@@ -25,9 +25,11 @@ layout: default
         {% assign all_events_sorted = all_events | sort: 'date' %}
 
         {% for event in all_events_sorted %}
+        {% unless event.hidden %}
         <li class="table-row table-row-{{ event.type}}">
             {% include schedule_row_{{ event.type }}.html event=event %}
         </li>
+        {% endunless %}
         {% endfor %}
 
     </ul>

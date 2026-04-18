@@ -3,8 +3,19 @@ layout: page
 ---
 
 {{ content }}
+
+{% if site.data.late_policy and site.data.late_policy.policies.size > 0 %}
+<p><strong>Late Policy:</strong></p>
+<ul>
+{% for policy in site.data.late_policy.policies %}
+  <li>{{ policy }}</li>
+{% endfor %}
+</ul>
+{% endif %}
+
 <ul id="archive">
 {% for asg in site.assignments %}
+{% unless asg.hidden %}
       <li class="archiveposturl" style="background: transparent">
         <span><a href="{{ asg.url | prepend: site.baseurl}}">{{ asg.title }}</a></span>
 <strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
@@ -16,5 +27,6 @@ layout: page
 {% endif %}
 </strong> 
       </li>
+{% endunless %}
 {% endfor %}
 </ul>

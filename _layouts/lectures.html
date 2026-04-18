@@ -6,6 +6,7 @@ layout: page
 
 <ul id="archive">
 {% for lecture in site.lectures %}
+{% unless lecture.hidden %}
 <li class="archiveposturl" style="background: transparent">
 <div class="lecture-container">
     {% if lecture.thumbnail %}
@@ -35,5 +36,6 @@ layout: page
     </div>
 </div>
 </li>
+{% endunless %}
 {% endfor %}
 </ul>

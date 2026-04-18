@@ -1,10 +1,9 @@
 ---
 type: lecture
-date: 2026-05-06T13:30
+date: 2025-05-07T13:30
 title: Hopfield Networks
 description: "Hopfield networks as models of content-addressable memory. "
 thumbnail: /static_files/lectures/sample_lecture_img.png
-hidden: true
 
 hide_from_announcments: true
 
