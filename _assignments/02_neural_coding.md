@@ -2,12 +2,10 @@
 type: assignment
 date: 2026-04-30
 title: 'Assignment 2 - Neural coding'
-hidden: true
 due_event: 
     type: due
     date: 2026-05-06T23:59:00-8:00
     description: 'Assignment 2 - Neural coding'
-    hidden: true
 ---
 
 
