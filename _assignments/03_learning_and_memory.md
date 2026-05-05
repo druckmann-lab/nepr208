@@ -2,12 +2,10 @@
 type: assignment
 date: 2026-05-06
 title: 'Assignment 3 - Learning and Memory'
-hidden: true
 due_event: 
     type: due
     date: 2026-05-13T23:59:00-8:00
     description: 'Assignment 3 - Learning and Memory'
-    hidden: true
 ---
 
 Download [Problem Set 3](../static_files/problem_sets/ps3_2023.pdf)
